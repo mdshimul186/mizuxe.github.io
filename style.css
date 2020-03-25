@@ -3,7 +3,8 @@ body{
     background: #333;
 }
 html{
-    scroll-behavior: smooth;}
+    scroll-behavior: smooth;
+}
 .navbar{
     background: rgb(255, 254, 254) !important;
     padding: 15px;
