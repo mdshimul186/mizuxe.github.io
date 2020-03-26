@@ -2,11 +2,15 @@
 body{
     color: white;
     background: #333;
-overflow: hidden;
+
     
 }
 html{
     scroll-behavior: smooth;
+}
+.navsection{
+overflow: hidden;
+
 }
 .navbar{
     background: rgb(255, 254, 254) !important;
